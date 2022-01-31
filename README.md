@@ -10,7 +10,7 @@
 <div>
  <p>
 
-I am 15+ years old and I'm currently a Student From Bangladesh. I am deeply interested in Algorithmic and systematic trading. I am also interested in web development and API Engineering to make pwerful developer tools for others. I aspire to work for some company and develop software that has a positive impace pn Society. 
+I am 15+ years old and I'm currently a Student From Bangladesh. I am deeply interested in Algorithmic and systematic trading. I am also interested in web development and API Engineering to make powerful developer tools for others. I aspire to work for some company and develop software that has a positive impace on Society. 
 
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my Twitter Account https://twitter.com/asahi_2005.
 
