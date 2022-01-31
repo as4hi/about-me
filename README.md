@@ -27,11 +27,9 @@ I am always on the lookout for new projects to work on and new people to collabo
 </summary>
 
 <br />
-
-[![ReadMe Card]
-[![ReadMe Card]
-[![ReadMe Card]
-[![ReadMe Card]
+Discord Raiding Tool
+Media Streaming Website
+AI Python
 
 <br />
 
