@@ -17,19 +17,16 @@ I am always on the lookout for new projects to work on and new people to collabo
 </h4>
 </div>
 
-<div><p>My profile overview: </p></div>
-<br />
-<br />
-<br />
+
 <details>
 <summary>
   Projects I am currently working on
 </summary>
 
 <br />
-Discord Raiding Tool
-Media Streaming Website
-AI Python
+Discord Raiding Tool,
+Media Streaming Website,
+AI Python,
 
 <br />
 
